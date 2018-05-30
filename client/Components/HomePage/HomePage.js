@@ -48,7 +48,7 @@ class HomePage extends Component{
                </div>
 
 				<div className={"portfolio-navigation w3-bar " + addCls}>
-					<img src="" alt="logo" /> 
+				
 				 	<button className="w3-button w3-teal w3-large tile-icon"
 				 	onClick={this.showNavigationSelection.bind(this)}>☰</button>
 				  	<div className={"header-right " + showNavCls}>
@@ -232,7 +232,7 @@ class HomePage extends Component{
 						</div>
 					</section>
 					<footer className="footer-section">
-						<label className="w3-display-middle">&copy; 2018 Aarakocra</label>
+						<label className="w3-display-middle">&copy; 2018 Saravanan r</label>
 					</footer>
 				</div>
 
